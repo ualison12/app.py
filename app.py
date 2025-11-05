@@ -1,5 +1,5 @@
 # app.py
-"summary": 
+"summary"
 "rows": rows,
 "cols": cols,
 "null_pct": null_pct,
