@@ -4,10 +4,10 @@
 "cols": cols,
 "null_pct": null_pct,
 "numeric_cols": int(num_df.shape[1])
-},
+
 "numeric_stats": numeric_stats,
 "top_categories": top_categories,
-}
+
 
 
 
